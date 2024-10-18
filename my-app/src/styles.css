@@ -10,6 +10,9 @@ body {
     margin-left: 40px;
   }
   
+  footer {
+    margin-top: 30%;
+  }
   .search,
   .submit {
     padding: 10px;

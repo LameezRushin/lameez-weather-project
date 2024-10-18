@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Display />
+    <footer>Coded by Lameez Rushin, is open-sourced on Github and hosted by Netlify</footer>
   </React.StrictMode>
 );
 
