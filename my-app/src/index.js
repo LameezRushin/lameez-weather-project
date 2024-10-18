@@ -21,7 +21,7 @@ root.render(
           > Github</a
         >
         and hosted by 
-        <a href="https://myfirstweathersite.netlify.app/" target="_blank"
+        <a href="https://lameez-weather-app-react.netlify.app/" target="_blank"
           > Netlify</a
         >
       </footer>
