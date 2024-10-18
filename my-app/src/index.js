@@ -11,18 +11,18 @@ root.render(
   <React.StrictMode>
     <Display />
     <footer>
-        Coded by
+        Coded by 
         <a href="https://github.com/LameezRushin" target="_blank"
-          >Lameez Rushin</a
-        >, is open-sourced on
+          > Lameez Rushin</a
+        >, is open-sourced on 
         <a
           href="https://github.com/LameezRushin/lameez-weather-project"
           target="_blank"
-          >Github</a
+          > Github</a
         >
-        and hosted by
+        and hosted by 
         <a href="https://myfirstweathersite.netlify.app/" target="_blank"
-          >Netlify</a
+          > Netlify</a
         >
       </footer>
   </React.StrictMode>
